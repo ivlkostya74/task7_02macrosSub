@@ -2,7 +2,7 @@
 //
 
 #include <iostream>
-#define SUB(a,b,c) -(b-a)
+#define SUB(a,b,c) ((a)-(b))
 int main(int argc, char** argv)
 {
 	int a = 6;
